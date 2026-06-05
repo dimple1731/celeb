@@ -1,0 +1,6 @@
+{
+  "name": "Celebrity Search",
+  "description": "Search for any famous person to view their biography, career highlights, social media feeds, and get real-time news notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
